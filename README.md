@@ -15,3 +15,10 @@ For those that want to speak at events in their industry or become an author, bl
 
 ### To have content to share
 Social media audiences are more receptive to blog posts than they are ads or sales pages, and likewise, are more likely to share blog posts with their connections than ads or sales pages. By creating blog content, you give yourself more to share on your social media profiles, and you give your visitors something to share when they visit your website. Social sharing of your content will increase exposure to your target audiences and lead to more incoming traffic.
+
+### What all you can acheive through this project:
+* Add blogs
+* Edit Blogs
+* Delete Blogs
+* Update Blogs
+* Read Blogs
