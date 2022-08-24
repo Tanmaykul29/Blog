@@ -1,5 +1,5 @@
 # Blog
-## Tanmay's Blog is a webser made using flask to make a project such that new users can shows off their skills in blogging.
+## Tanmay's Blog is a webserver made using flask to make a project such that new users can shows off their skills in blogging.
 
 ### To share their passion
 When you are passionate about something, you want to share it with the world. Whether it’s a passion for fishing, photography, or marketing, blogging is an excellent way to share that passion. When you blog about something you are passionate about, it opens the door to connecting with those around the world who speak your language and have the same passions.
